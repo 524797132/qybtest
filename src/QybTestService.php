@@ -10,4 +10,8 @@ class QybTestService{
     public function call(){
         echo "this is a call ...";
     }
+
+    public function info(){
+        echo "this is a info...";
+    }
 }
