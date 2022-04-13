@@ -1,5 +1,5 @@
 <?php
-namespace QybTest;
+namespace Qybtest;
 
 class QybTestService{
 

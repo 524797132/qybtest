@@ -1,5 +1,5 @@
 <?php
-namespace QybTest;
+namespace Qybtest;
 
 use Illuminate\Support\ServiceProvider;
 
