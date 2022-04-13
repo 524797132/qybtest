@@ -1,0 +1,17 @@
+{
+    "name": "524797132/qybtest",
+    "description": "qybtest",
+    "autoload": {
+        "psr-4": {
+            "524797132\\Qybtest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "524797312",
+            "email": "524797132@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
