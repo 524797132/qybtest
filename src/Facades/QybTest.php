@@ -1,5 +1,5 @@
 <?php
-namespace Qyb\Facades;
+namespace QybTest\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
