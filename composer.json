@@ -3,7 +3,7 @@
     "description": "qybtest",
     "autoload": {
         "psr-4": {
-            "524797132\\Qybtest\\": "src/"
+            "Qybtest\\": "src/"
         }
     },
     "authors": [
